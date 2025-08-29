@@ -234,7 +234,8 @@
 }
 .whyget{
     width: 100%;
-    min-height: 95vh;
+    min-height: auto;
+    margin-bottom: 5%;
 }
 .whyget .why1{
     text-align: center;
@@ -277,7 +278,8 @@
 }
 .after1{
     width: 45%;
-    min-height: 35vh;
+    min-height: auto;
+    padding-bottom: 3%;
     background-color: white;
     border-radius: 10px;
 
@@ -338,7 +340,8 @@
 .community1{
     width: 30%;
     margin-top: 5%;
-    min-height: 50vh;
+    min-height: auto;
+    padding-bottom: 5%;
     background-color: #f6f4ee;
     border-radius: 15px;
 }
@@ -375,6 +378,7 @@ padding-top: 2%;
     margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
+    justify-content: space-evenly;
     display: flex;
 }
 .flexible2 {
