@@ -486,7 +486,8 @@ padding-top: 2%;
 }
 .cohort2{
     width: 60%;
-    min-height: 50vh;
+    min-height: auto;
+
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
@@ -497,13 +498,17 @@ padding-top: 2%;
 .cohort3{
     width: 45%;
     background: linear-gradient(72deg, var(--token-358ee009-7cb7-4434-9be3-383d30a81810, #f6f4ee) 0%, #f5c9ef 100%);
-    height: 50vh;
+    height: auto;
+          padding-bottom: 10%;
+
     border-radius: 16px;
 }
 .cohort4{
     width: 45%;
     background-color: #f6f4ee;
-    height: 50vh;
+    height: auto;
+            padding-bottom: 10%;
+
     background-color: var(--token-eb13911e-0e46-45df-b063-ffd9f17aeac1, #e7e7e9);
     border-radius: 16px;
 }
@@ -542,7 +547,7 @@ padding-top: 2%;
     padding-bottom: 2%;
 }
 .cohort4 p{
-    font-size: 27px;
+    font-size: 22px;
     color: black;
 }
 .info{
@@ -846,7 +851,7 @@ margin-bottom: 20%;
 }
 .syllabus h1{
     font-size: 25px;
-    padding-top: 20%;
+    padding-top: 5%;
 }
 .syllabus1{
     margin-top: 10%;
@@ -856,9 +861,7 @@ margin-bottom: 20%;
         color: black;
         font-size: 20px;
       }
-      .syllabus{
-        min-height: 45vh;
-      }
+  
       .cohort .cohort1{
         width: 80%;
         padding-top: 3%;
