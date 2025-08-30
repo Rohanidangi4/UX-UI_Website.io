@@ -278,7 +278,7 @@
 }
 .after1{
     width: 45%;
-    min-height: auto;
+    min-height: 35vh;
     padding-bottom: 3%;
     background-color: white;
     border-radius: 10px;
